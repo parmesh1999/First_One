@@ -1,2 +1,3 @@
 # First_One
-This is my first Git repository
+This is my first Git repository.
+Author - Parmesh Prasad Dash
